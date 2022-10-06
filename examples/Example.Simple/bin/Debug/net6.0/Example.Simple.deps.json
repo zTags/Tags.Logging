@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example.Simple/1.0.0": {
+        "dependencies": {
+          "Tags.Logging": "1.0.0"
+        },
+        "runtime": {
+          "Example.Simple.dll": {}
+        }
+      },
+      "Tags.Logging/1.0.0": {
+        "runtime": {
+          "Tags.Logging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example.Simple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tags.Logging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
